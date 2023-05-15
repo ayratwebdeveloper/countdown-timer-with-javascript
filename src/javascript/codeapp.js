@@ -20,5 +20,5 @@ function displayTime(second){
 }
 
 function timeIsOver(){
-	timeFirst.innerHTML = 'TIME OUT'
+	timeFirst.innerHTML = 'Time is over'
 }
